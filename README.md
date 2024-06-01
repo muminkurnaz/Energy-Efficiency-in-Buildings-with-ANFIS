@@ -34,5 +34,24 @@ This project is licensed under the MIT License. For more information, see the `L
 
 For questions regarding the project, you can contact me at: [mmnkrnz@gmail.com](mailto:mmnkrnz@gmail.com)
 
+## Building Energy Efficiency Analysis with ANFIS: Methodology and Results
+
 ![1](https://github.com/muminkurnaz/Energy_Efficiency_in_Buildings_with_ANFIS/assets/112796390/73aea57b-bff6-4e5a-9bd2-06e33fb0c06e)
+
+![4](https://github.com/muminkurnaz/Energy_Efficiency_in_Buildings_with_ANFIS/assets/112796390/71e12ba9-23a6-45aa-999b-5ffc465f68d5)
+
+![anfisprojeyapım](https://github.com/muminkurnaz/Energy_Efficiency_in_Buildings_with_ANFIS/assets/112796390/b6dcac83-ceb0-4ce3-bf4f-c2f23ce5a5bf)
+
+![epochsayısı](https://github.com/muminkurnaz/Energy_Efficiency_in_Buildings_with_ANFIS/assets/112796390/f568a897-0e5b-478f-aae6-fad41e6d0e17)
+
+![son](https://github.com/muminkurnaz/Energy_Efficiency_in_Buildings_with_ANFIS/assets/112796390/52a2d6e0-822a-40a8-8d2d-669e75b2fd91)
+
+![sonucevalfis](https://github.com/muminkurnaz/Energy_Efficiency_in_Buildings_with_ANFIS/assets/112796390/dcfff895-8ca9-4a67-bbd0-ed83b39087c1)
+
+![sonuc](https://github.com/muminkurnaz/Energy_Efficiency_in_Buildings_with_ANFIS/assets/112796390/0cd07a31-5e01-4643-a740-eec334af899b)
+
+![sutun_grafik](https://github.com/muminkurnaz/Energy_Efficiency_in_Buildings_with_ANFIS/assets/112796390/ec7448f9-7330-4567-a7b7-1ba2f6f2671f)
+
+![cizgi_grafik](https://github.com/muminkurnaz/Energy_Efficiency_in_Buildings_with_ANFIS/assets/112796390/28f8de58-6605-4b25-91eb-abd7f374f24c)
+
 
