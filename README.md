@@ -33,3 +33,6 @@ This project is licensed under the MIT License. For more information, see the `L
 ## Contact
 
 For questions regarding the project, you can contact me at: [mmnkrnz@gmail.com](mailto:mmnkrnz@gmail.com)
+
+![1](https://github.com/muminkurnaz/Energy_Efficiency_in_Buildings_with_ANFIS/assets/112796390/73aea57b-bff6-4e5a-9bd2-06e33fb0c06e)
+
